@@ -90,7 +90,7 @@ Average Rating = AVERAGE('Feedback'[Rating])
 - **Platform metadata**  
   Information about booking sources (e.g., Tripster, Logtrip), used for channel performance analysis.
 
-  ### 🎯 Use Cases
+  ### Use Cases
 
 - **Revenue forecasting**  
   Predict future earnings based on historical booking and occupancy trends.
